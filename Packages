@@ -1,0 +1,32 @@
+Package: com.williammuff.autoanswerpoundxi
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: William Muff
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs/com.williammuff.autoanswerpoundxi_1.0.0_iphoneos-arm.deb
+Size: 3184
+MD5sum: 9bde7d0e3563dac80603968f910f3c75
+SHA1: 02ccab4c0b92cfff87232cd3d8b695e23ba976cd
+SHA256: 1f102f914d6d1dbbdd1decd3b0534b10d7aeec3cd48039f64de2a28942faeabe
+Section: Tweaks
+Description: A tweak that will automatically:(Answer a contact named VPN | Push the pound key | Hang up).
+Author: William Muff
+Name: AutoAnswerPoundXI
+
+Package: com.williammuff.volumecontrolxi
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: William Muff
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.williammuff.volumecontrolxi_1.0.0_iphoneos-arm.deb
+Size: 3752
+MD5sum: e3adb29add0cbf8833d3760fef54464b
+SHA1: a47adeea209ca47130e9697769d5cd9fdb775ad2
+SHA256: fefd164cb469ddc32ff60a790d503dcb3af686aebf35baf67c1f737c572d4efe
+Section: Tweaks
+Description: Use volume keys to go to previous/next media. (DOWN + UP = NEXT | UP + DOWN = PREVIOUS)
+Author: William Muff
+Name: VolumeControlXI
+
